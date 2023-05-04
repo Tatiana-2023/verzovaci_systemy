@@ -1,1 +1,1 @@
-# DA verzovac 
+# Lekce GITu
